@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Marcio Silva</h1>
+<h1 align="center">Olá 👋, meu nome é Marcio Silva</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados com foco em Growth e crescimento de receita</h3>
 
 - 🔭 Atualmente presto consultoria de para implantação de cultura e gestão de dados para pequenas e médias empresas [Projetos Inteligência de Negócio](https://bit.ly/3QTogSE)
