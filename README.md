@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Marcio Silva</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados, com foco em "Growth" e crescimento de receita</h3>
+<h3 align="center">Apaixonado por FP&A, Projetos e Análise de dados, com foco em Eficiência, Expansão e Crescimento de receita</h3>
 
 - 🔭 Atualmente presto consultoria auxiliando empresas que querem implatar processos e melhorias de gestão orientada a dados : [Projetos Inteligência de Negócio](https://bit.ly/3QTogSE)
 
