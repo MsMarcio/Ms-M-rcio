@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Carregar os dados
-data = pd.read_excel('BASE_DE_TESTE.xlsx', sheet_name='Planilha1')
+data = pd.read_csv('BASE_DE_TESTE.csv', encoding='latin1')
 
 # Título do Dashboard
 st.title('Dashboard de Projetos')
