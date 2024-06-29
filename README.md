@@ -5,10 +5,6 @@
 
 - 🌱 Ferramentas  **Python |Power BI | Excel**
 
-- 👯 
-
-- 👨‍💻 
-
 - 💬 Me pergunte Sobre **Power Bi,Excel,Google Data Studio Python**
 
 - 📫 Você me encontra no link a seguir **https://abre.bio/marciosilva**
