@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, meu nome é Marcio Silva</h1>
 <h3 align="center">Apaixonado por FP&A, Projetos e Análise de dados, com foco em Eficiência, Expansão e Crescimento de receita</h3>
 
-- 🔭 Atualmente presto consultoria auxiliando empresas que querem implatar processos e melhorias de gestão orientada a dados : [Projetos Inteligência de Negócio](https://bit.ly/3QTogSE)
+- 🔭 Head de Projetos & FP&A  : [Projetos Inteligência de Negócio](https://bit.ly/3QTogSE)
 
-- 🌱 Atualmente estou aprendendo **Python,Machine larning e AWS Cloud**
+- 🌱 Ferramentas  **Python |Power BI | Excel**
 
-- 👯 Compartilho conteúdos no me Drive( planilhas e projetos) [Repositório de arquivos](https://bit.ly/3QTo)
+- 👯 
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://bit.ly/3QTogSE](https://bit.ly/3QTogSE)
+- 👨‍💻 
 
 - 💬 Me pergunte Sobre **Power Bi,Excel,Google Data Studio Python**
 
