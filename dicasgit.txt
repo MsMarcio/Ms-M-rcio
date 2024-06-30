@@ -1,0 +1,35 @@
+1º 
+ git version
+
+2º
+git config --global user.mail "marcio@msfinancas.com.br"
+git config --global user.name "Marcio Silva"
+
+3º
+git init
+
+4º
+git remote add origin https: e o endereço do repositorio  
+
+
+5º
+git status
+
+6º
+git add "nome do arquivo com extensão"
+
+7º enviar o arquivo
+git commit -m " mensagem de controle"
+
+8º se apresentar erro
+
+git config --global user.mail "marcio@msfinancas.com.br"
+git config --global user.name "Marcio Silva"
+
+9º Enviando as alterações 
+
+git push origin master
+
+
+
+
